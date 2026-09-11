@@ -1,0 +1,10 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+results/*.pt
+results/*.npy
+results/*.png
+adapters/
+*.safetensors
+.DS_Store
+skills/
